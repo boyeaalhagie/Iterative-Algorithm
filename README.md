@@ -19,7 +19,9 @@ The logic behind this is that if a point is inside the polygon, a ray extending 
 The image above demonstrates this principle with various scenarios:
 
 **Inside**: The ray crosses the polygon edge once, indicating the point is inside.
+
 **Outside**: The ray crosses the polygon edges twice, meaning the point is outside.
+
 This algorithm handles complex and concave polygons, making it a versatile solution for point-in-polygon problems.
 
 
