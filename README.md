@@ -1,3 +1,11 @@
+# Contributors
+
+Alhagie Boye [boyea@msoe.edu]
+
+Sukhbir Singh [sudersanamv@msoe.edu]
+
+Vamsi Sudersanam [singhsu@msoe.edu]
+
 # Introduction
 Determining if a point is inside a polygon is a common problem in computer graphics, geospatial analysis, and computational geometry. This project implements the Ray Casting Algorithm, a simple yet effective method to solve this problem. Given a polygon and a test point, the algorithm can quickly determine whether the point lies inside or outside the polygon.
 
